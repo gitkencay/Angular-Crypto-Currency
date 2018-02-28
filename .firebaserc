@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "angular-crypto-currency-e8aa8"
+    "default": "angular-crypto-currency-e8aa8",
+    "Angular": "angular-crypto-ada0e"
   }
 }
